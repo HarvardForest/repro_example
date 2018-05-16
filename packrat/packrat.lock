@@ -1,0 +1,33 @@
+PackratFormat: 1.4
+PackratVersion: 0.4.9.2
+RVersion: 3.4.4
+Repos: CRAN=https://mirrors.sorengard.com/cran
+
+Package: MASS
+Source: CRAN
+Version: 7.3-49
+Hash: 01a2feb0d02f446a8337f5fa310fb498
+
+Package: cluster
+Source: CRAN
+Version: 2.0.7-1
+Hash: ef254b1adf031cf24cafa0c055fdee6c
+
+Package: lattice
+Source: CRAN
+Version: 0.20-35
+Hash: 26b9d7f0d0cb4e1d1bbb97f867c82d89
+
+Package: packrat
+Source: github
+Version: 0.4.9-2
+Hash: c73cc03ba66369a5791221307ff811c6
+GithubRepo: packrat
+GithubUsername: rstudio
+GithubRef: master
+GithubSha1: f18e2607af2935508d7f04ac91d96b5f3bfe09ae
+
+Package: permute
+Source: CRAN
+Version: 0.9-4
+Hash: 9e0f52c901043914869df608e0c5fa98
