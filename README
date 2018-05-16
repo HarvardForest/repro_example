@@ -1,0 +1,12 @@
+### This is my project
+### MK Lau
+
+A useful architecture for projects:
+
+- **README**: file describing the project and associated files
+- **data**: folder to collect relevant data files or links
+- **src**: where all of the **R** scripts should be kept
+- **results**: this is where output from scripts can go
+- **docs**: further documentation and relevant files (e.g. notes, papers)
+- **bin**: ADVANCED - if you need to include other associated software                                                                          
+ 
