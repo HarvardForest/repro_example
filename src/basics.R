@@ -8,3 +8,4 @@ cor.test(dat[,"x"], dat[,"y"])
 
 plot(y ~ x, data = dat)
 
+
